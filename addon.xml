@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.churchlivenow" name="ChurchLiveNow" version="0.1" provider-name="Paras Nath Chaudhary">
+<addon id="plugin.video.streamingfilziptv" name="Streamingfilz IPTV" version="0.1" provider-name="Paras Nath Chaudhary">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.xbmcswift2" version="2.4.0"/>
@@ -10,7 +10,7 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <language></language>
-    <summary>Summary for "ChurchLiveNow"</summary>
-    <description>Description for "ChurchLiveNow"</description>
+    <summary>Summary for "Streamingfilz IPTV"</summary>
+    <description>StreamingFilz is a Video Hosting and Online Entertainment Company with a focus on the delivery of Caribbean and International video content via digital platforms such as the Web, mobile and IPTV networks.</description>
   </extension>
 </addon>

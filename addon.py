@@ -5,7 +5,7 @@ import json
 plugin = Plugin()
 
 def api_call(url):
-	url="http://rokutvchannel.churchlivenow.com/api/"+url
+	url="http://streamingfilziptv.gocaribbeantv.net/api/"+url
 	return json.loads(urllib2.urlopen(url).read())
 
 
