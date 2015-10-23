@@ -1,4 +1,5 @@
-plugin.video.churchlivenow
+plugin.video.streamingfilziptv
 ==========================
 
-XBMC plugin for ChurchLiveNow
+XBMC plugin for Streamingfilziptv
+
