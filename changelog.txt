@@ -1,2 +1,4 @@
 v0.1
 - Beta Version
+v0.2
+- Logo change
